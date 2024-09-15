@@ -91,7 +91,7 @@ def two_list_box(year,month):
             L.place(x=10,y=10)
             F.place(x=xp,y=yp)
             xp+=70
-        
+
 
     plus_button=Button(main_frame,text="+",command=A_plus_button)
     minus_button=Button(main_frame,text="-",command=A_minus_button)
