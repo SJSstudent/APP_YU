@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+}
+
+.article{ 
+    border: 1px solid black;
+    padding: 30px;
+    font-family: 굴림,serif, monospace;
+} 
+
+.hi{
+    /* font-size: 2em; 부모태그의 대응하는 상대 크기*/
+    /* font-size: 2rem; html의 기본 사이즈 배수*/
+    
+}
+
+.sort{
+    text-align: center;
+    color: rgb(129, 44, 44);
+}
+
+.cod {
+    border:  1px solid red;
+    /* display: none; */
+}
+
+.gg{
+    border-width:  5px;
+    border-style:  dashed;
+    display: inline-block;
+}
+
+.box_example{
+    border: 3px solid red;
+    padding: 10px;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+}
